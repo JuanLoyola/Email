@@ -5,8 +5,8 @@ This repository is a practice as a way to try out new things
 * HTML
 * CSS
 
-(!) The ideal would be to pass all styles to inline from html
-(Maybe https://putsmail.com/inliner is a useful option)
+💡 The ideal would be to pass all styles to inline from html
+(Maybe https://putsmail.com/inliner is a useful option) 💡
 
 # Desktop preview:
 
